@@ -1,0 +1,27 @@
+_repo: Report-on-Surgery-to-the-Santa-Clara-County-Medical-Society_23769
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cox, Joseph Bradford
+    birthdate: 1840
+    gutenberg_agent_id: '26022'
+    url: http://www.gutenberg.org/2009/agents/26022
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2007-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23769'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine -- California -- Santa Clara County'
+- !lcsh 'Surgery -- Case studies'
+- !lcc 'RD'
+title: Report on Surgery to the Santa Clara County Medical Society
+url: http://www.gutenberg.org/ebooks/23769
